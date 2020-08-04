@@ -1,4 +1,4 @@
-
+[![Hello 👋🏻](https://res.cloudinary.com/dgqdvqyz3/image/upload/f_auto,q_100/v1594274395/social-media/gh-banner.jpg)][1]
 # Craig West - HTML/CSS/JS/REACT/WP/GUTENBERG developer
 ## Talks and workshops given at WordCamps, MeetUps and NDC Oslo
 ## Progressive Web Apps, Web Components and WP REST API
