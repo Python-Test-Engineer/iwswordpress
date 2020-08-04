@@ -1,4 +1,4 @@
-[![Hello 👋🏻](https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)]
+[![Hello 👋🏻](https://images.unsplash.com/photo-1519389950473-47ba0277781c]
 # Craig West - HTML/CSS/JS/REACT/WP/GUTENBERG developer
 ## Talks and workshops given at WordCamps, MeetUps and NDC Oslo
 ## Progressive Web Apps, Web Components and WP REST API
