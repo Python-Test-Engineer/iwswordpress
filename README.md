@@ -1,6 +1,4 @@
-
-![GitHub Logo](https://unsplash.com/photos/SYTO3xs06fU)
-Format: ![Alt Text](url)
+![Philadelphia's Magic Gardens. This place was so cool!](/assets/images/philly-magic-gardens.jpg "Philadelphia's Magic Gardens")
 # Craig West - HTML/CSS/JS/REACT/WP/GUTENBERG developer
 ## Talks and workshops given at WordCamps, MeetUps and NDC Oslo
 ## Progressive Web Apps, Web Components and WP REST API
