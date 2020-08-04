@@ -14,7 +14,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Next Level GitHub Profile README (NEW) | Demo of WP REST API WordCamp Workshop](https://www.youtube.com/watch?v=eubhbcGH_W)
+- [Demo of WP REST API WordCamp Workshop](https://www.youtube.com/watch?v=eubhbcGH_W)
 
 <!-- YOUTUBE:END -->
 
