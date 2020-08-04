@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Craig West - HTML/CSS/JS/REACT/WP/GUTENBERG developer
+##Craig West - HTML/CSS/JS/REACT/WP/GUTENBERG developer
 * Talks and workshops given at WordCamps, MeetUps and NDC Oslo
 * Progressive Web Apps, Web Components and WP REST API
 Seeking
