@@ -1,4 +1,3 @@
-# Hi there 👋
 
 # Craig West - HTML/CSS/JS/REACT/WP/GUTENBERG developer
 ## Talks and workshops given at WordCamps, MeetUps and NDC Oslo
