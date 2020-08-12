@@ -9,6 +9,7 @@
 ### Small projects, research projects etc...
 ### Returning to Tech after careers in finance and looking to reacquatint myself with the world of tech.
 ### I really love studying tech even though it can feell 'brutal' at times!
+### Almost 60 but still love working and creating value. 
 
 
 ## Connect with me
