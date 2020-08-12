@@ -1,9 +1,13 @@
-![TECH](https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
+<!--![TECH](https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)-->
 # Craig West - HTML/CSS/JS/REACT/WP/GUTENBERG developer
+# Former Microsoft Certified Systems Engineer and Microsoft Certified SQL Server DBA
+# Former Business Information Architect
 ## Talks and workshops given at WordCamps, MeetUps and NDC Oslo
 ### Progressive Web Apps, Web Components and WP REST API
 
-## Seeking
+## Seeking work experience/internship.
+### Returning to Tech after careers in finance and looking to reacquatint myself with the world of tech.
+### I really love studying tech even though it can feell 'brutal' at times!
 
 - 🔭 Remote working
 - 🌱 Part time
