@@ -2,8 +2,7 @@
 # Craig West - HTML/CSS/JS/REACT/WP/GUTENBERG developer
 # Former Microsoft Certified Systems Engineer and Microsoft Certified SQL Server DBA
 # Former Business Information Architect
-## Talks and workshops given at WordCamps, MeetUps and NDC Oslo
-### Progressive Web Apps, Web Components and WP REST API
+## Talks and workshops given at WordCamps, MeetUps and NDC Oslo - Progressive Web Apps, Web Components and WP REST API.
 
 ## Seeking work experience/internship - remote and part-time.
 ### Small projects, research projects etc...
