@@ -5,8 +5,8 @@
 ## Talks and workshops given at WordCamps, MeetUps and NDC Oslo - Progressive Web Apps, Web Components and WP REST API.
 
 ## Seeking work experience/internship - remote and part-time.
-### Small projects, research projects etc...
-### Returning to Tech after careers in finance and looking to reacquatint myself with the world of tech.
+### Small projects, research projects etc...Interested in testing React Apps.
+### Returning to Tech after careers in finance and looking to reacquaint myself with the world of tech.
 ### I really love studying tech even though it can feell 'brutal' at times!
 ### Almost 60 but still love working and creating value. 
 
