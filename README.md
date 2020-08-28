@@ -18,7 +18,7 @@
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Demo of WP REST API WordCamp Workshop](https://www.youtube.com/watch?v=eubhbcGH_W)
-
+- [Demo of PWA NDC Oslo workshop ](https://www.youtube.com/embed/k_lHvNL0gkw)
 <!-- YOUTUBE:END -->
 
 ---
