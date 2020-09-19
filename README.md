@@ -20,7 +20,7 @@
 <!-- YOUTUBE:START -->
 - [Demo of Progressive Web Apps course](https://www.youtube.com/embed/k_lHvNL0gkw)
 - [Demo of WordPress REST API and AJAX forms/pages](https://www.youtube.com/embed/k_lHvNL0gkw)
-- [Demo of Decoupled WordPress site to HTML plat](https://www.youtube.com/embed/k_lHvNL0gkw)
+- [Demo of Decoupled WordPress site to HTML platform with Web Components](https://www.youtube.com/embed/k_lHvNL0gkw)
 <!-- YOUTUBE:END -->
 
 
