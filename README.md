@@ -15,6 +15,7 @@
 - 👯 https://wpjs.co.uk
 - 📫 craig@wpjs.co.uk..
 - WP REST DEMO https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s
+- PWA DEMO https://www.youtube.com/channel/UCIx-k3n7hWs3u1MVqjB8EKg
 
 ### 📺 Udemy Courses
 <!-- YOUTUBE:START -->
