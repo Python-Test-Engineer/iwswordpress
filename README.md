@@ -2,10 +2,10 @@
 # Craig West - REACT/REDUX/RxJS
 # Former Microsoft Certified Systems Engineer and Microsoft Certified SQL Server DBA
 # Former Business Information Architect
-## Talks and workshops given at WordCamps, MeetUps and NDC Oslo - Progressive Web Apps, Web Components and WP REST API.
+## Talks and workshops given at WordCamps, MeetUps and NDC Oslo - Progressive Web Apps and Web Components.
 
 ## Seeking work experience/internship - remote and part-time.
-### Small projects, research projects etc...Interested in testing React Apps.
+### Small projects, research projects etc...Interested in testing React-Redux-RxJS as main stack and testing React Apps.
 ### Returning to Tech after careers in finance and looking to reacquaint myself with the world of tech.
 ### I really love studying tech even though it can feell 'brutal' at times!
 ### Almost 60 but still love working and creating value. 
@@ -15,6 +15,15 @@
 - 👯 https://wpjs.co.uk
 - 📫 craig@wpjs.co.uk..
 
+
+### 📺 Udemy Courses
+<!-- YOUTUBE:START -->
+- [Demo of Progressive Web Apps course](https://www.youtube.com/watch?v=eubhbcGH_W)
+- [Demo of WordPress REST API and AJAX forms/pages](https://www.youtube.com/embed/k_lHvNL0gkw)
+- [Demo of Decoupled WordPress site to HTML plat](https://www.youtube.com/embed/k_lHvNL0gkw)
+<!-- YOUTUBE:END -->
+
+
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Demo of WP REST API WordCamp Workshop](https://www.youtube.com/watch?v=eubhbcGH_W)
@@ -23,15 +32,3 @@
 
 ---
 
-### 📕 Latest Blog Posts I like
-<!-- BLOG-POST-LIST:START -->
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<img align="left" alt="IWSWORDPRESS STATS" src="https://github-readme-stats.vercel.app/api?username=iwswordpress&show_icons=true&hide_border=true" />
-
-[website]: https://wpjs.co.uk
-[youtube]: https://www.youtube.com/channel/UCIx-k3n7hWs3u1MVqjB8EKg
