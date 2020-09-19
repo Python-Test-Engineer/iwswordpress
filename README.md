@@ -14,22 +14,15 @@
 ## Connect with me
 - 👯 https://wpjs.co.uk
 - 📫 craig@wpjs.co.uk..
-- WP REST DEMO https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s
-- PWA DEMO https://www.youtube.com/watch?v=k_lHvNL0gkw
+
 
 ### 📺 Udemy Courses
+- WP REST DEMO https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s
+- PWA DEMO https://www.youtube.com/watch?v=k_lHvNL0gkw
 <!-- YOUTUBE:START -->
 - [Demo of Progressive Web Apps course](https://www.youtube.com/embed/k_lHvNL0gkw)
 - [Demo of WordPress REST API and AJAX forms/pages](https://www.youtube.com/embed/k_lHvNL0gkw)
 - [Demo of Decoupled WordPress site to HTML platform with Web Components](https://www.youtube.com/embed/k_lHvNL0gkw)
 <!-- YOUTUBE:END -->
 
-
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [Demo of WP REST API WordCamp Workshop](https://www.youtube.com/watch?v=eubhbcGH_W)
-- [Demo of PWA NDC Oslo workshop ](https://www.youtube.com/embed/k_lHvNL0gkw)
-<!-- YOUTUBE:END -->
-
----
 
