@@ -22,8 +22,11 @@
 
 
 ### 📺 YouTube Courses
-- RHIGHLY-FUNCTIONAL-WEBCOMPONENTS https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s
+- HIGHLY-FUNCTIONAL-WEBCOMPONENTS https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s
 - REACT-REDUX-THUNK https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s
 - REACT-REDUX-SAGAS https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s
 - REACT-REDUX-RxJS https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s
 
+### 📺 Projects
+- REACT Social Network using WordPress.MySQL/REST API as a backend https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s
+- REACT Boiler plate E-commerce store using Firestore https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s
