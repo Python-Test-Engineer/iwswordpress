@@ -6,7 +6,7 @@
 
 ## Seeking work experience/internship - remote and part-time.
 ### Small projects, research projects etc...Interested in testing React-Redux-RxJS as main stack and testing React Apps.
-### Returning to Tech after careers in finance and looking to reacquaint myself with the world of tech.
+### Returning to Tech after careers in finance and business and now looking to reacquaint myself with the world of tech.
 ### I really love studying tech even though it can feell 'brutal' at times!
 ### Almost 60 but still love working and creating value. 
 
