@@ -1,5 +1,5 @@
 <!--![TECH](https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)-->
-# Craig West - REACT/REDUX/Thunks/Sagas/RxJS
+# Craig West - REACT/REDUX/Sagas/RxJS/GraphQL
 # Former Microsoft Certified Systems Engineer and Microsoft Certified SQL Server DBA
 # Former Business Information Architect
 ## Talks and workshops given at WordCamps, MeetUps and NDC Oslo - Progressive Web Apps and Web Components.
@@ -17,16 +17,18 @@
 
 
 ### 📺 Udemy Courses
+
 - WP REST DEMO https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s
 - PWA DEMO https://www.youtube.com/watch?v=k_lHvNL0gkw
 
 
-### 📺 YouTube Courses
-- HIGHLY-FUNCTIONAL-WEBCOMPONENTS https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s
-- REACT-REDUX-THUNK https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s
+### 📺 YouTube Courses - Developer to Developer courses
+
 - REACT-REDUX-SAGAS https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s
 - REACT-REDUX-RxJS https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s
+- HIGHLY-FUNCTIONAL-WEBCOMPONENTS https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s
 
 ### 📺 Projects
+
 - REACT Social Network using WordPress.MySQL/REST API as a backend https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s
 - REACT Boiler plate E-commerce store using Firestore https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s
