@@ -13,13 +13,13 @@
 
 ## Connect with me
 - 👯 https://wpjs.co.uk
-- 📫 craig@wpjs.co.uk..
+- 📫 craig@wpjs.co.uk
 
 
 ### 📺 Udemy Courses
 
-- WP REST DEMO https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s
-- PWA DEMO https://www.youtube.com/watch?v=k_lHvNL0gkw
+- WordPress REST API and AJAX Forms/Pages - DEMO https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s
+- Progressive Web Apps - DEMO https://www.youtube.com/watch?v=k_lHvNL0gkw
 
 
 ### 📺 YouTube Courses - Developer to Developer courses
@@ -27,6 +27,7 @@
 - REACT-REDUX-SAGAS https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s
 - REACT-REDUX-RxJS https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s
 - HIGHLY-FUNCTIONAL-WEBCOMPONENTS https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s
+
 
 ### 📺 Projects
 
