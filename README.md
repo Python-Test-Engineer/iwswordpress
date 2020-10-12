@@ -11,7 +11,7 @@ Small projects, research projects etc...
 
 I love information systems and am keen on developing my skills in the DATA layer with a focus on wiring together many different data sources and technologies. I have worked with MySQL, MongoDB and Google Firestore.
 
-I use REACT for the UI.
+I use REACT for the UI. I am a fan of the REACT/REDUX architecture to separate concerns and have also worked with MobX as a state management system.
 
 ## Learning
 
