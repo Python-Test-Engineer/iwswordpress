@@ -42,9 +42,10 @@ Udemy is a great learning platform and having sales at least once a month, cours
 
 These are video courses that cover work through official documents to help other developers, learn in public and show prosepective employers not just what I know but how I learn and how I communicate technical matters to others.
 
-- REACT-REDUX-SAGAS: A walkthroufh of the official documentation - https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s 
-- REACT-REDUX-RxJS: Using RxJS and Redux-Overvables (epic) - https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s
-- HIGHLY-FUNCTIONAL-WEBCOMPONENTS: A video course based on the workshop I gave at NDC Oslo June 2020 - https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s
+- REACT-REDUX-SAGAS: A walkthroufh of the official documentation - in progress... 
+- REACT-REDUX-RxJS: Using RxJS and Redux-Overvables (epic) - in progress... 
+- HIGHLY-FUNCTIONAL-WEBCOMPONENTS: A video course based on the workshop I gave at NDC Oslo June 2020 - in progress... 
+- APOLLO SERVER: Working with the offical documentation for building GraphQL server - in progress... 
 
 
 ### 📺 Projects
@@ -53,7 +54,11 @@ These are video courses that cover work through official documents to help other
 
 ### 📺 Useful repos
 
-I have a number of repos that illustrate various skills and they have a detailed README file as wel as video demos.
+I have a number of repos listed below that illustrate various skills and they have a detailed README file as well as video demos:
+
+1.
+2.
+3.
 
 ### 📺 Work tools
 
