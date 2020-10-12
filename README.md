@@ -6,6 +6,7 @@
    --- WordPress REST API, Progressive Web Apps and Web Components.
 
 Seeking work experience/internship - remote and part-time.
+
 Small projects, research projects etc...Interested in testing React-Redux-RxJS as main stack and testing React Apps.
 Returning to Tech after careers in finance and business and now looking to reacquaint myself with the world of tech.
 I really love studying tech even though it can feel 'brutal' at times!
@@ -18,8 +19,10 @@ Almost 60 but still love working and creating value.
 
 ### 📺 Udemy Courses
 
-- WordPress REST API and AJAX Forms/Pages - DEMO https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s
-- Progressive Web Apps - DEMO https://www.youtube.com/watch?v=k_lHvNL0gkw
+- WordPress REST API and AJAX Forms/Pages - DEMO https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s (paid)
+- Progressive Web Apps - DEMO https://www.youtube.com/watch?v=k_lHvNL0gkw (paid)
+- WP-HTML: decoupling WordPress to anyHTML platform using Web Components and the WP REST API. This also enables HTML plugins for non-WP Sites - https://www.udemy.com/course/powerful-html-pages-using-wordpress-component-architecture/ (free)
+- Stylish Dynamic Web Forms with jQuery validation - https://www.udemy.com/course/ready-to-use-form-validation-templates-with-jquery/ (free)
 
 
 ### 📺 YouTube Courses - Developer to Developer courses
