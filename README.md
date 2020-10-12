@@ -5,12 +5,11 @@
 ### Talks and workshops given at WordCamps, MeetUps and NDC Oslo:
    --- WordPress REST API, Progressive Web Apps and Web Components.
 
-## Seeking work experience/internship - remote and part-time.
-### Small projects, research projects etc...Interested in testing React-Redux-RxJS as main stack and testing React Apps.
-### Returning to Tech after careers in finance and business and now looking to reacquaint myself with the world of tech.
-### I really love studying tech even though it can feel 'brutal' at times!
-### Almost 60 but still love working and creating value. 
-
+Seeking work experience/internship - remote and part-time.
+Small projects, research projects etc...Interested in testing React-Redux-RxJS as main stack and testing React Apps.
+Returning to Tech after careers in finance and business and now looking to reacquaint myself with the world of tech.
+I really love studying tech even though it can feel 'brutal' at times!
+Almost 60 but still love working and creating value. 
 
 ## Connect with me
 - 👯 https://wpjs.co.uk
@@ -24,6 +23,8 @@
 
 
 ### 📺 YouTube Courses - Developer to Developer courses
+
+These are video courses that cover work through official documents to help other developers, learn in public and show prosepective employers not just what I know but how I learn and how I communicate technical matters to others.
 
 - REACT-REDUX-SAGAS https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s
 - REACT-REDUX-RxJS https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s
