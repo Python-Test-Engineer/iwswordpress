@@ -49,3 +49,7 @@ These are video courses that cover work through official documents to help other
 - REACT: Boiler plate E-commerce store using Firestore https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s
 - REACT-GRAPHQL:
 - APOLLO-FEDERATION: Createing a GRAPHQL Server to work with mulitple schemas or endpoiints
+
+### 📺 Work tools
+
+- VSCode, Github, NPM, Postman.
