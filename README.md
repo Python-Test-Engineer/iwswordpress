@@ -47,10 +47,7 @@ These are video courses that cover work through official documents to help other
 
 ### 📺 Projects
 
-- REACT: Social Network using WordPress.MySQL/REST API as a backend https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s
-- REACT: Boiler plate E-commerce store using Firestore https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s
-- REACT-GRAPHQL:
-- APOLLO-FEDERATION: Createing a GRAPHQL Server to work with mulitple schemas or endpoiints
+- The Community App: Developing a generic community app for amy organisation with a multitude of sub-divisions and a variety of datasources to provie the essential social network, user management, events management service and a generic offer/wanted service
 
 ### 📺 Work tools
 
