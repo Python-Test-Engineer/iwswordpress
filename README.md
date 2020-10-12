@@ -55,3 +55,7 @@ These are video courses that cover work through official documents to help other
 ### 📺 Work tools
 
 - VSCode, Github, NPM, Postman.
+
+### 📺 Outside interests
+
+These include partner dancing, yoga and cycle maintenance.
