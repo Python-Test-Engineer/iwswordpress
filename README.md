@@ -16,6 +16,8 @@ I use REACT for the UI. I am a fan of the REACT/REDUX architecture to separate c
 
 ## Learning
 
+Whilst technology skills are what I need to leanr, the real learning is *mindset*...the ability to be persistent, deal with frustration and have courage to embrace the learning curve of new technologies. The 'WALL' to progresshas been frequent. It has become an old friend/teacher rather than a bitter enemy.
+
 Community learning, (self-taught), using YouTube, Udemy and FrontendMasters. 
 
 Kyle Simpson and Will Sentance have been particularly helpful to me in learning JavaScript deeply, (ongoing!).
