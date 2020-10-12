@@ -15,7 +15,9 @@ I use REACT for the UI.
 
 ## Learning
 
-Community learning, (self-taught), using YouTube, Udemy and FrontendMasters. Kyle Simpson and Will Sentance have been particularly helpful to me in learning JavaScript deeply, (ongoing!).
+Community learning, (self-taught), using YouTube, Udemy and FrontendMasters. 
+
+Kyle Simpson and Will Sentance have been particularly helpful to me in learning JavaScript deeply, (ongoing!).
 
 ## Connect with me
 - 👯 https://wpjs.co.uk - My business site for 1-3 hour training workshops for groups and individuals.
