@@ -3,7 +3,7 @@
 ### Former Microsoft Certified Systems Engineer and Microsoft Certified SQL Server DBA
 ### Former Business Information Architect
 ### Talks and workshops given at WordCamps, MeetUps and NDC Oslo:
-   WordPress REST API, Progressive Web Apps and Web Components.
+   --- WordPress REST API, Progressive Web Apps and Web Components.
 
 ## Seeking work experience/internship - remote and part-time.
 ### Small projects, research projects etc...Interested in testing React-Redux-RxJS as main stack and testing React Apps.
