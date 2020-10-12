@@ -29,12 +29,14 @@ Almost 60 but still love working and creating value.
 
 These are video courses that cover work through official documents to help other developers, learn in public and show prosepective employers not just what I know but how I learn and how I communicate technical matters to others.
 
-- REACT-REDUX-SAGAS https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s
-- REACT-REDUX-RxJS https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s
-- HIGHLY-FUNCTIONAL-WEBCOMPONENTS https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s
+- REACT-REDUX-SAGAS: A walkthroufh of the official documentation - https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s 
+- REACT-REDUX-RxJS: Using RxJS and Redux-Overvables (epic) - https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s
+- HIGHLY-FUNCTIONAL-WEBCOMPONENTS: A video course based on the workshop I gave at NDC Oslo June 2020 - https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s
 
 
 ### 📺 Projects
 
-- REACT Social Network using WordPress.MySQL/REST API as a backend https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s
-- REACT Boiler plate E-commerce store using Firestore https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s
+- REACT: Social Network using WordPress.MySQL/REST API as a backend https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s
+- REACT: Boiler plate E-commerce store using Firestore https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s
+- REACT-GRAPHQL:
+- APOLLO-FEDERATION: Createing a GRAPHQL Server to work with mulitple schemas or endpoiints
