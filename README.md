@@ -7,17 +7,24 @@
 
 Seeking work experience/internship - remote and part-time.
 
-Small projects, research projects etc...Interested in testing React-Redux-RxJS as main stack and testing React Apps.
-Returning to Tech after careers in finance and business and now looking to reacquaint myself with the world of tech.
-I really love studying tech even though it can feel 'brutal' at times!
-Almost 60 but still love working and creating value. 
+Small projects, research projects etc...
+
+I love information systems and am keen on developing my skills in the DATA layer with a focus on wiring together many different data sources and technologies. I have worked with MySQL, MongoDB and Google Firestore.
+
+I use REACT for the UI.
+
+## Learning
+
+Community learning, (self-taught), using YouTube, Udemy and FrontendMasters. Kyle Simpson and Will Sentance have been particularly helpful to me in learning JavaScript deeply, (ongoing!).
 
 ## Connect with me
-- 👯 https://wpjs.co.uk
+- 👯 https://wpjs.co.uk - My business site for 1-3 hour training workshops for groups and individuals.
 - 📫 craig@wpjs.co.uk
 
 
 ### 📺 Udemy Courses
+
+Udemy is a great learning platform and having sales at least once a month, courses can be purchased for ~ £15/$15 USD.
 
 - WordPress REST API and AJAX Forms/Pages - DEMO https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s (paid)
 - Progressive Web Apps - DEMO https://www.youtube.com/watch?v=k_lHvNL0gkw (paid)
