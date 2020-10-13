@@ -44,7 +44,7 @@ Udemy is a great learning platform and having sales at least once a month, cours
 
 These are video courses that cover work through official documents to help other developers, learn in public and show prosepective employers not just what I know but how I learn and how I communicate technical matters to others.
 
-- :white_check_mark: HIGHLY-FUNCTIONAL-WEBCOMPONENTS: A video course based on the workshop I gave at NDC Oslo June 2020 - https://www.youtube.com/watch?v=QC-JTqQTv2k&list=PLsszRSbzjyvkQwzrJobroRl7z7MfSlePa (not yet complete)
+- :heavy_check_mark: HIGHLY-FUNCTIONAL-WEBCOMPONENTS: A video course based on the workshop I gave at NDC Oslo June 2020 - https://www.youtube.com/watch?v=QC-JTqQTv2k&list=PLsszRSbzjyvkQwzrJobroRl7z7MfSlePa (not yet complete)
 - APIs: Useful free APIs avaialbe for developers and how to use them with POSTMAN
 - GITHUB: Essential day to day Github commands that I use. The 20% I use 80% of the time.
 - VSCode: Tips on making one's 'office' more productive and pleasant.
