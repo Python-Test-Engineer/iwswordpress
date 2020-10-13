@@ -1,4 +1,6 @@
 <!--![TECH](https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)-->
+## ASYNCJS talk - https://github.com/iwswordpress/webcomponents
+
 # Craig West - REACT/REDUX/Sagas/RxJS/GraphQL
 ## *Everything is just a Key:Value pair*
 ### Former A+ PC Technician, Microsoft Certified Systems Engineer and Microsoft Certified SQL Server DBA
