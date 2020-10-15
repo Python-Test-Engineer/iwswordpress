@@ -24,7 +24,9 @@ Community learning, (self-taught), using YouTube, Udemy and FrontendMasters.
 
 Kyle Simpson and Will Sentance have been particularly helpful to me in learning JavaScript deeply, (ongoing!).
 
-Taversy Media, Net Ninja and Steve Grifith have been my core YoutTube mentors.
+Traversy Media, Net Ninja and Steve Grifith have been my core YoutTube mentors.
+
+Academind course on Udemy.com
 
 ## Connect with me
 - 👯 https://wpjs.co.uk - My business site for 1-3 hour training workshops for groups and individuals.
