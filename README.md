@@ -64,9 +64,9 @@ These are video courses that cover work through official documents to help other
 
 I have a number of repos listed below that illustrate various skills and they have a detailed README file as well as video demos:
 
-1.
-2.
-3.
+1. MongoDB-ApolloServer-GraphQl-React
+2. JS-RxJS
+3. PWA using Web Components
 
 ### 📺 Work tools
 
