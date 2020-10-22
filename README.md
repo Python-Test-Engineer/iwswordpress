@@ -52,20 +52,10 @@ These are video courses that cover work through official documents to help other
 - VSCode: Tips on making one's 'office' more productive and pleasant - in progress... 
 - REACT-REDUX-SAGAS: A walkthroufh of the official documentation - in progress... 
 - REACT-REDUX-RxJS: Using RxJS and Redux-Overvables (epic) - in progress... 
-- APOLLO SERVER: Working with the offical documentation for building GraphQL server - in progress... 
-
 
 ### 📺 Projects
 
 - The Community App: Developing a generic community app for amy organisation with a multitude of sub-divisions and a variety of datasources to provie the essential social network, user management, events management service and a generic offer/wanted service.
-
-### 📺 Useful repos
-
-I have a number of repos listed below that illustrate various skills and they have a detailed README file as well as video demos:
-
-1. MongoDB-ApolloServer-GraphQl-React
-2. JS-RxJS
-3. PWA using Web Components
 
 ### 📺 Work tools
 
