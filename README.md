@@ -63,4 +63,4 @@ These are video courses that cover work through official documents to help other
 
 ### 📺 Outside interests
 
-These include partner dancing, yoga and cycle maintenance.
+These include partner dancing, yoga and bicycle maintenance.
