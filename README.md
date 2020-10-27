@@ -32,8 +32,7 @@ Academind course on Udemy.com
 - 👯 https://wpjs.co.uk - My business site for 1-3 hour training workshops for groups and individuals.
 - 📫 craig@wpjs.co.uk
 
-
-### 📺 Talks and Workshops
+📺 Talks and Workshops
 -- WordPress REST API with AJAX Forms and Pages - WordCamp Denver, June 2020.
 
 -- rogressive Web Apps Workshop (2hrs) - NDC Oslo June 2020.
@@ -61,7 +60,7 @@ Academind course on Udemy.com
 -- Decoupled WordPress and WP Components - WordCamp Brighton August 2019.
 
 
-### 📺 Udemy Courses
+📺 Udemy Courses
 
 Udemy is a great learning platform and having sales at least once a month, courses can be purchased for ~ £15/$15 USD.
 
@@ -82,14 +81,14 @@ These are video courses that cover work through official documents to help other
 - REACT-REDUX-SAGAS: A walkthroufh of the official documentation - in progress... 
 - REACT-REDUX-RxJS: Using RxJS and Redux-Overvables (epic) - in progress... 
 
-### 📺 Projects
+### Projects
 
 - The Community App: Developing a generic community app for amy organisation with a multitude of sub-divisions and a variety of datasources to provie the essential social network, user management, events management service and a generic offer/wanted service.
 
-### 📺 Work tools
+###  Work tools
 
 - VSCode, Github, NPM, Postman.
 
-### 📺 Outside interests
+###  Outside interests
 
 These include partner dancing, yoga and bicycle maintenance.
