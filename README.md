@@ -60,7 +60,7 @@ Academind course on Udemy.com
 -- Decoupled WordPress and WP Components - WordCamp Brighton August 2019.
 
 
-📺 Udemy Courses
+##  Udemy Courses
 
 Udemy is a great learning platform and having sales at least once a month, courses can be purchased for ~ £15/$15 USD.
 
@@ -70,7 +70,7 @@ Udemy is a great learning platform and having sales at least once a month, cours
 - Stylish Dynamic Web Forms with jQuery validation - https://www.udemy.com/course/ready-to-use-form-validation-templates-with-jquery/ (free)
 
 
-### 📺 YouTube Courses - Developer to Developer courses
+###  YouTube Courses - Developer to Developer courses
 
 These are video courses that cover work through official documents to help other developers, learn in public and show prosepective employers not just what I know but how I learn and how I communicate technical matters to others.
 
