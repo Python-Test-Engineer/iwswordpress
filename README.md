@@ -6,7 +6,7 @@
 ### Former A+ PC Technician, Microsoft Certified Systems Engineer and Microsoft Certified SQL Server DBA
 ### Former Business Information Architect
 ### Talks and workshops given at WordCamps, MeetUps and NDC Oslo:
-   [View speaking](#speaking)
+[view](#my-stupendous-header)
 
 ## SEEKING
 
@@ -34,7 +34,7 @@ Academind course on Udemy.com
 - 👯 https://wpjs.co.uk - My business site for 1-3 hour training workshops for groups and individuals.
 - 📫 craig@wpjs.co.uk
 
-#speaking
+### My Stupendous Header
 
 ## Talks and Workshops
 -- WordPress REST API with AJAX Forms and Pages - WordCamp Denver, June 2020.
