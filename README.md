@@ -12,7 +12,7 @@
 
 I am still studying a range of technologies and would like to do some project work for a team so that I can develop a day to day skillset.
 
-I am available to work (no fee) for around 10 hours per week and this could be used to do those things that one never gets around to doing.
+I am available to work, (no fee), for around 10 hours per week and this could be used to do those things that one never gets around to doing.
 
 At some point in mid to late 2021, I would like to be a remote, part-time developer/project manager.
 
