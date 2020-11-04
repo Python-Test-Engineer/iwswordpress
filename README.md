@@ -8,13 +8,13 @@
 ### Talks and workshops given at WordCamps, MeetUps and NDC Oslo:
    --- WordPress REST API, Progressive Web Apps and Web Components.
 
-Seeking work experience/internship - remote and part-time.
+## SEEKING
 
-Small projects, research projects etc...
+I am still studying a range of technologies and would like to do some project work for a team so that I can develop day to day skillset.
 
-I love information systems and am keen on developing my skills in the DATA layer with a focus on wiring together many different data sources and technologies. I have worked with MySQL, MongoDB and Google Firestore.
+I am available to work (no fee) for around 10 hours per week and this could be used to do those things that one never gets around to doing.
 
-I use REACT for the UI. I am a fan of the REACT/REDUX architecture to separate concerns and have also worked with MobX as a state management system.
+At some point in mid to late 2021, I would like to be a remote, part-time developer/project manager.
 
 ## Learning
 
