@@ -5,7 +5,7 @@
 ## *Everything is just a Key:Value pair*
 ### Former A+ PC Technician, Microsoft Certified Systems Engineer and Microsoft Certified SQL Server DBA
 ### Former Business Information Architect
-### Talks and workshops given at WordCamps, MeetUps and NDC Oslo:
+### Talks and workshops given at WordCamps, MeetUps and NDC Oslo.
 [VIEW SPEAKING](#talks-and-workshops)
 
 ## SEEKING
