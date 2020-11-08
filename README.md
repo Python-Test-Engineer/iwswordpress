@@ -39,7 +39,7 @@ Academind course on Udemy.com
 
 -- WordPress REST API with AJAX Forms and Pages - WordCamp Denver, June 2020.
 
--- rogressive Web Apps Workshop (2hrs) - NDC Oslo June 2020.
+-- Progressive Web Apps Workshop (2hrs) - NDC Oslo June 2020.
 
 -- Web Components Workshop (2hrs) - NDC Oslo June 2020.
 
