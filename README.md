@@ -35,9 +35,8 @@ Academind course on Udemy.com
 - 👯 https://wpjs.co.uk - My business site for 1-3 hour training workshops for groups and individuals.
 - 📫 craig@wpjs.co.uk
 
-
-
 ## Talks and Workshops
+
 -- WordPress REST API with AJAX Forms and Pages - WordCamp Denver, June 2020.
 
 -- rogressive Web Apps Workshop (2hrs) - NDC Oslo June 2020.
