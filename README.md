@@ -2,7 +2,7 @@
 ## ASYNCJS talk - REPO: https://github.com/iwswordpress/webcomponents
 ## ASYNCJS talk - SLIDES: https://wpjs.co.uk/webcomponents.pptx
 
-# Craig West - REACT/REDUX/Sagas/RxJS/GraphQL
+# Craig West - React/Redux/Sagas/RxJS/GraphQL
 ## *Everything is just a Key:Value pair*
 ### Former A+ PC Technician, Microsoft Certified Systems Engineer and Microsoft Certified SQL Server DBA
 ### Former Business Information Architect
