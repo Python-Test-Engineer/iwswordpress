@@ -21,7 +21,9 @@ Open to ideas...
 
 ## Learning
 
-Whilst technology skills are what I need to leanr, the real learning is *mindset*...the ability to be persistent, deal with frustration and have courage to embrace the learning curve of new technologies. The 'WALL' to progresshas been frequent. It has become an old friend/teacher rather than a bitter enemy.
+Currently working with Ionic/React/Capacitor to create apps that work on all platforms with just(!) HTML/CSS/JS - 'write once, run anywhere'.
+
+Whilst technology skills are what I need to learn, the real learning is *mindset*...the ability to be persistent, deal with frustration and have courage to embrace the learning curve of new technologies. The 'WALL' to progresshas been frequent. It has become an old friend/teacher rather than a bitter enemy.
 
 Community learning, (self-taught), using YouTube, Udemy and FrontendMasters. 
 
