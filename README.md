@@ -17,6 +17,8 @@ With previous careers as an accountant, business owner, Tech Architect and sales
 
 I love business and the process of creating value for customers.
 
+I also love teaching technologies, striving to make the complex understandable.
+
 Open to ideas...
 
 ## Learning
