@@ -11,13 +11,13 @@
 
 ## SEEKING
 
-I am still studying a range of technologies and would like to do some project work for a team so that I can develop a day to day skillset.
+I am NOT looking for a job. I am looking to create value in a business rather than endless studying.
 
-I am available to work, (no fee), for around 10 hours per week and this could be used to do those things that one never gets around to doing.
+With previous careeers as an accountant, business owner, Tech Architect and sales, there may be a role other than coder that uses these different skills.
 
-At some point in mid to late 2021, I would like to be a remote, part-time developer/project manager.
+I love business and the process of creating value for customers.
 
-With previous careeers as an accountant, business owner, Tech Architect and sales, there may be a role that uses these different skills.
+Open to ideas...
 
 ## Learning
 
