@@ -13,7 +13,7 @@
 
 I am NOT looking for a job. I am looking to create value in a business rather than endless studying.
 
-With previous careeers as an accountant, business owner, Tech Architect and sales, there may be a role other than coder that uses these different skills.
+With previous careers as an accountant, business owner, Tech Architect and sales, there may be a role other than coder that uses these different skills.
 
 I love business and the process of creating value for customers.
 
