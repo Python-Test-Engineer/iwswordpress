@@ -51,6 +51,8 @@ A list of talks and workshops I have given:
 
 -- Progressive Web Apps Workshop (2hrs) - Brighton WordUp June 2020.
 
+-- WORKSHOP: WordPress REST API with AJAX Forms and Pages - WordCamp Denver, Jume 2020.
+
 -- WordPress REST API with AJAX Forms and Pages - WordCamp Kent, Ohio May 2020.
 
 -- What is the WP REST API and how can I use it to make forms and pages that don’t need to do be reloaded? - WordUp Brighton May 2020.
