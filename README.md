@@ -41,6 +41,8 @@ Academind course on Udemy.com
 
 ## Talks and Workshops
 
+A list of talks and workshops I have given:
+
 -- WordPress REST API with AJAX Forms and Pages - WordCamp Denver, June 2020.
 
 -- Progressive Web Apps Workshop (2hrs) - NDC Oslo June 2020.
