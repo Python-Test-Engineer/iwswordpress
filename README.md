@@ -43,6 +43,8 @@ Academind course on Udemy.com
 
 A list of talks and workshops I have given:
 
+-- Unifying frameworks with Web Components - Brighton AsyncJS, Nov 2020.
+
 -- WordPress REST API with AJAX Forms and Pages - WordCamp Denver, June 2020.
 
 -- Progressive Web Apps Workshop (2hrs) - NDC Oslo June 2020.
