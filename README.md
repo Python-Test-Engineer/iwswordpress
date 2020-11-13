@@ -43,7 +43,7 @@ Academind course on Udemy.com
 
 A list of talks and workshops I have given:
 
--- Unifying frameworks with Web Components - Brighton AsyncJS, Nov 2020.
+-- TALK: Unifying frameworks with Web Components - Brighton AsyncJS, Nov 2020.
 
 -- WORKSHOP: Progressive Web Apps Workshop (2hrs) - NDC Oslo June 2020.
 
@@ -53,9 +53,9 @@ A list of talks and workshops I have given:
 
 -- WORKSHOP: WordPress REST API with AJAX Forms and Pages - WordCamp Denver, June 2020.
 
--- WordPress REST API with AJAX Forms and Pages - WordCamp Kent, Ohio May 2020.
+-- WORKSHOP: WordPress REST API with AJAX Forms and Pages - WordCamp Kent, Ohio May 2020.
 
--- What is the WP REST API and how can I use it to make forms and pages that don’t need to do be reloaded? - WordUp Brighton May 2020.
+-- TALK: What is the WP REST API and how can I use it to make forms and pages that don’t need to do be reloaded? - WordUp Brighton May 2020.
 
 -- WORKSHOP: WordPress REST API and AJAX Forms - WordCamp Geneva March 2020 [EVENT CANCELLED due to virus concerns :( ]
 
@@ -63,13 +63,13 @@ A list of talks and workshops I have given:
 
 -- WORKSHOP: WordPress REST API - WordCamp Vienna February 2020.
 
--- Progressive Web Apps - Brighton WordUp November 2019.
+-- TALK: Progressive Web Apps - Brighton WordUp November 2019.
 
--- Decoupled WordPress (code along style) - WordCamp Dublin October 2019.
+-- TALK: Decoupled WordPress (code along style) - WordCamp Dublin October 2019.
 
--- JWT and Authentication - WPHooked London September 2019
+-- TALK: JWT and Authentication - WPHooked London September 2019
 
--- Decoupled WordPress and WP Components - WordCamp Brighton August 2019.
+-- TALK: Decoupled WordPress and WP Components - WordCamp Brighton August 2019.
 
 
 ##  Udemy Courses
