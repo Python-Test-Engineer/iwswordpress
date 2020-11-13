@@ -45,13 +45,11 @@ A list of talks and workshops I have given:
 
 -- Unifying frameworks with Web Components - Brighton AsyncJS, Nov 2020.
 
--- WordPress REST API with AJAX Forms and Pages - WordCamp Denver, June 2020.
+-- WORKSHOP: Progressive Web Apps Workshop (2hrs) - NDC Oslo June 2020.
 
--- Progressive Web Apps Workshop (2hrs) - NDC Oslo June 2020.
+-- WORKSHOP: Web Components Workshop (2hrs) - NDC Oslo June 2020.
 
--- Web Components Workshop (2hrs) - NDC Oslo June 2020.
-
--- Progressive Web Apps Workshop (2hrs) - Brighton WordUp June 2020.
+-- WORKSHOP: Progressive Web Apps Workshop (2hrs) - Brighton WordUp June 2020.
 
 -- WORKSHOP: WordPress REST API with AJAX Forms and Pages - WordCamp Denver, June 2020.
 
@@ -65,7 +63,7 @@ A list of talks and workshops I have given:
 
 -- WORKSHOP: WordPress REST API - WordCamp Vienna February 2020.
 
--- rogressive Web Apps - Brighton WordUp November 2019.
+-- Progressive Web Apps - Brighton WordUp November 2019.
 
 -- Decoupled WordPress (code along style) - WordCamp Dublin October 2019.
 
