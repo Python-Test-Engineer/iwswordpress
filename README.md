@@ -21,7 +21,7 @@ I also love teaching technologies, striving to make the complex understandable.
 
 Open to ideas...
 
-## Learning
+## Current Learning
 
 Currently working with Ionic/React/Capacitor to create apps that work on all platforms with just(!) HTML/CSS/JS - 'write once, run anywhere'.
 
@@ -31,9 +31,9 @@ Community learning, (self-taught), using YouTube, Udemy and FrontendMasters.
 
 Kyle Simpson and Will Sentance have been particularly helpful to me in learning JavaScript deeply, (ongoing!).
 
-Traversy Media, Net Ninja and Steve Grifith have been my core YoutTube mentors.
+Traversy Media, Net Ninja and Steve Grifith have been my core YouTube mentors.
 
-Academind course on Udemy.com
+Academind courses on Udemy.com
 
 ## Connect with me
 - 👯 https://wpjs.co.uk - My business site for 1-3 hour training workshops for groups and individuals.
