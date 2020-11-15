@@ -92,7 +92,7 @@ These are video courses that cover work through official documents to help other
 
 ### Projects
 
-- The Community App: Developing a generic community app for amy organisation with a multitude of sub-divisions and a variety of datasources to provie the essential social network, user management, events management service and a generic offer/wanted service.
+These are projects that have detailed README files with videos to explain and demonstrate the project.
 
 ###  Work tools
 
