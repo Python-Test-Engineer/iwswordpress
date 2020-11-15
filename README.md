@@ -94,6 +94,10 @@ These are video courses that cover work through official documents to help other
 
 These are projects that have detailed README files with videos to explain and demonstrate the project.
 
+- StencilJS->NPM->React: Using StencilJs to create Web Components, these are deployed as NPM packages and then used in a React Project.
+- RxJS and JS: Using Reactive programming techniques to use an autocomplete search of locations, resolve to lat, long and then use API to get weather data.
+- Ionic/React/Capacitor: Using the Ionic Web Component framework which can use a React framework, apps are created and with Capacitor, a single JS codebase can be use for PWAs/Web Apps/iOS/Android.
+
 ###  Work tools
 
 - VSCode, Github, NPM, Postman.
