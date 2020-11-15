@@ -1,6 +1,6 @@
 <!--![TECH](https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)-->
-## ASYNCJS talk - REPO: https://github.com/iwswordpress/webcomponents
-## ASYNCJS talk - SLIDES: https://wpjs.co.uk/webcomponents.pdf
+<!--## ASYNCJS talk - REPO: https://github.com/iwswordpress/webcomponents
+## ASYNCJS talk - SLIDES: https://wpjs.co.uk/webcomponents.pdf-->
 
 # Craig West - React/Redux/Sagas/RxJS/GraphQL
 ## *Everything is just a Key:Value pair*
