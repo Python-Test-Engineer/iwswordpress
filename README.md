@@ -14,7 +14,7 @@
 
 ## SEEKING
 
-I am NOT looking for a job. I am looking to create value in a business rather than endless studying.
+### Part-time, remote, pro-bono...
 
 With previous careers as an accountant, business owner, Tech Architect and sales, there may be a role other than coder that uses these different skills.
 
