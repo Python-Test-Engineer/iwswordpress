@@ -16,6 +16,10 @@
 
 ### Part-time, remote, pro-bono...
 
+I returned to tech two years ago and embarked on learning tech again.
+
+Looking for work experience/pro bono work to find my niche and develop it.
+
 With previous careers as an accountant, business owner, Tech Architect and sales, there may be a role other than coder that uses these different skills.
 
 I love business and the process of creating value for customers.
@@ -26,7 +30,7 @@ Open to ideas...
 
 ## Current Learning
 
-Currently working with Ionic/React/Capacitor to create apps that work on all platforms with just(!) HTML/CSS/JS - 'write once, run anywhere'.
+Currently working with StencilJS/Web Components/Ionic/React/Capacitor to create apps that work on all platforms with just(!) HTML/CSS/JS - 'write once, run anywhere'.
 
 Whilst technology skills are what I need to learn, the real learning is *mindset*...the ability to be persistent, deal with frustration and have the courage to embrace the learning curve of new technologies. The 'WALL' to progress has been frequent. It has become an old friend/teacher rather than a bitter enemy.
 
