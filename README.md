@@ -101,7 +101,7 @@ These are video courses that cover work through official documents to help other
 
 This is an enterprise wide boiler plate that has separate apps, each using a unique tech stack that then communciating with a centrail controller app with events that are then broadcast to all the apps as needed.
 
-Each app has its own stack - framework, database and hosting - making this a way of an organisation to create teams based on the MicroService.
+Each app has its own stack - framework, database and hosting - making this a way for an organisation to create teams based on MicroServices.
 
 ### Development Projects
 
