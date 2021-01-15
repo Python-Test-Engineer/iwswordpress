@@ -2,7 +2,7 @@
 <!--## ASYNCJS talk - REPO: https://github.com/iwswordpress/webcomponents
 ## ASYNCJS talk - SLIDES: https://wpjs.co.uk/webcomponents.pdf-->
 
-# Craig West - 'time to end studying and now do'.
+
 ## React/Redux/Sagas/RxJS/GraphQL
 ## Ionic/StencilJS/Web Components/PWAs - use the platform
 ## *Everything is just a Key:Value pair*
