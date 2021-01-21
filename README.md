@@ -3,7 +3,7 @@
 ## ASYNCJS talk - SLIDES: https://wpjs.co.uk/webcomponents.pdf-->
 
 
-## React/Redux/Sagas/RxJS/GraphQL
+## Progressive Web Apps and Web Components Trainer
 ## Ionic/StencilJS/Web Components/PWAs - use the platform
 ## *Everything is just a Key:Value pair*
 ### Former A+ PC Technician, Microsoft Certified Systems Engineer and Microsoft Certified SQL Server DBA
@@ -12,35 +12,6 @@
 ### Talks and workshops given at WordCamps, MeetUps and NDC Oslo.
 [VIEW SPEAKING](#talks-and-workshops)
 
-## SEEKING
-
-### Part-time, remote, pro-bono...
-
-I returned to tech two years ago and embarked on learning tech again.
-
-Looking for work experience/pro bono work to find my niche and develop it.
-
-With previous careers as an accountant, business owner, Tech Architect and sales, there may be a role other than coder that uses these different skills.
-
-I love business and the process of creating value for customers.
-
-I also love teaching technologies, striving to make the complex understandable.
-
-Open to ideas...
-
-## Current Learning
-
-Currently working with StencilJS/Web Components/Ionic/React/Capacitor to create apps that work on all platforms with just(!) HTML/CSS/JS - 'write once, run anywhere'.
-
-Whilst technology skills are what I need to learn, the real learning is *mindset*...the ability to be persistent, deal with frustration and have the courage to embrace the learning curve of new technologies. The 'WALL' to progress has been frequent. It has become an old friend/teacher rather than a bitter enemy.
-
-Community learning, (self-taught), using YouTube, Udemy and FrontendMasters. 
-
-Kyle Simpson and Will Sentance have been particularly helpful to me in learning JavaScript deeply, (ongoing!).
-
-Traversy Media, Net Ninja and Steve Grifith have been my core YouTube mentors.
-
-Academind courses on Udemy.com
 
 ## Connect with me
 - 👯 https://wpjs.co.uk - My business site for 1-3 hour training workshops for groups and individuals.
@@ -94,8 +65,6 @@ Udemy is a great learning platform and having sales at least once a month, cours
 These are video courses that cover work through official documents to help other developers, learn in public and show prosepective employers not just what I know but how I learn and how I communicate technical matters to others.
 
 - :heavy_check_mark: HIGHLY-FUNCTIONAL-WEBCOMPONENTS: A video course based on the workshop I gave at NDC Oslo June 2020 - https://www.youtube.com/watch?v=QC-JTqQTv2k&list=PLsszRSbzjyvkQwzrJobroRl7z7MfSlePa 
-- REACT-REDUX-SAGAS: A walkthroufh of the official documentation - in progress... 
-- REACT-REDUX-RxJS: Using RxJS and Redux-Overvables (epics) - in progress... 
 
 ### Enterprise Project - MicroService Applications
 
