@@ -17,7 +17,7 @@
 ### Former A+ PC Technician, Microsoft Certified Systems Engineer and Microsoft Certified SQL Server DBA
 ### Former Business Information Architect
 ### Accountant and business owner
-### Talks and workshops given at WordCamps, MeetUps and NDC Oslo.
+### Talks and workshops given at WordCamps, MeetUps and NDC.
 [VIEW SPEAKING](#talks-and-workshops)
 
 
