@@ -7,10 +7,10 @@
 
 ### I provide training and production days on a variety of technologies. These can be 1-3 hour sessions, half or full days. These enable  your team to develop new skills and build new components for use in their work the next day. Training is focused on real world use cases.
 
-### Progressive Web Apps - enhancing regular websites with increased speed, offline capability and Native App UI.
-### Web Components as Micro Apps - creating browser compliant components that can be used in any HMTL site as well serve as Micro Apps in enterprise applications.
-### Web Site Performance and Optimisation - training on analysing, diagnosing and improving web site performance...(in development).
-### Async JS and RxJS - handling uncertainity and unpredictability in asynchronous programming...(in development).
+### 1. Progressive Web Apps - enhancing regular websites with increased speed, offline capability and Native App UI.
+### 2. Web Components as Micro Apps - creating browser compliant components that can be used in any HMTL site as well serve as Micro Apps in enterprise applications.
+### 3. Web Site Performance and Optimisation - training on analysing, diagnosing and improving web site performance...(in development).
+### 4. Async JS and RxJS - handling uncertainity and unpredictability in asynchronous programming...(in development).
 
 ## *Everything is just a Key:Value pair*
 
