@@ -4,6 +4,9 @@
 
 
 ## Progressive Web Apps and Web Components Trainer
+
+### I provide training and production days on a variety of technologies. These can be 1-3 hour sessions, half or full days. These enable  your team to develop new skills and build new components for use in their work the next day. Training is focused on real world use cases.
+
 ## Ionic/StencilJS/Web Components/PWAs - use the platform
 ## *Everything is just a Key:Value pair*
 ### Former A+ PC Technician, Microsoft Certified Systems Engineer and Microsoft Certified SQL Server DBA
