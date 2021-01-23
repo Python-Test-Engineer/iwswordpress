@@ -12,8 +12,8 @@
 ### Web Site Performance and Optimisation - training on analysing, diagnosing and improving web site performance.
 ### Async JS and RxJS - handling uncertainity and unpredictability in asynchronous programming.
 
-## Ionic/StencilJS/Web Components/PWAs - use the platform.
 ## *Everything is just a Key:Value pair*
+
 ### Former A+ PC Technician, Microsoft Certified Systems Engineer and Microsoft Certified SQL Server DBA
 ### Former Business Information Architect
 ### Accountant and business owner
