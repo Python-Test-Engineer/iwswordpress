@@ -29,6 +29,10 @@
 
 A list of talks and workshops I have given:
 
+
+
+- TALK: Web Components as Micro Apps - NDC London, Jan 2021
+
 - TALK: Unifying frameworks with Web Components - Brighton AsyncJS, Nov 2020.
 
 - WORKSHOP: Progressive Web Apps Workshop (2hrs) - NDC Oslo June 2020.
