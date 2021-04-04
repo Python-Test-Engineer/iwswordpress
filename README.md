@@ -3,7 +3,7 @@
 ## ASYNCJS talk - SLIDES: https://wpjs.co.uk/webcomponents.pdf-->
 
 
-## Progressive Web Apps and Web Components Trainer
+## Progressive Web Apps, RxJS and Web Components Trainer/ React-NextJS Developer
 
 ### I provide training and production days on a variety of technologies. These can be 1-3 hour sessions, half or full days. These enable  your team to develop new skills and build new components for use in their work the next day. Training is focused on real world use cases.
 
@@ -78,11 +78,6 @@ These are video courses that cover work through official documents to help other
 
 - :heavy_check_mark: HIGHLY-FUNCTIONAL-WEBCOMPONENTS: A video course based on the workshop I gave at NDC Oslo June 2020 - https://www.youtube.com/watch?v=QC-JTqQTv2k&list=PLsszRSbzjyvkQwzrJobroRl7z7MfSlePa 
 
-### Enterprise Project - MicroService Applications
-
-This is an enterprise wide boiler plate that has separate apps, each using a unique tech stack that then communciating with a centrail controller app with events that are then broadcast to all the apps as needed.
-
-Each app has its own stack - framework, database and hosting - making this a way for an organisation to create teams based on MicroServices.
 
 ### Development Projects
 
