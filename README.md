@@ -9,7 +9,7 @@
 
 ### 1. Progressive Web Apps - enhancing regular websites with increased speed, offline capability and Native App UI.
 ### 2. Web Components as Micro Apps - creating browser compliant components that can be used in any HMTL site as well serve as Micro Apps in enterprise applications.
-### 3. Web Site Performance and Optimisation - training on analysing, diagnosing and improving web site performance...(in development).
+### 3. Web Site Performance and Optimisation - training on analysing, diagnosing and improving web site performance, using Chrome Dev Tools.
 ### 4. Async JS and RxJS - handling uncertainity and unpredictability in asynchronous programming...(in development).
 
 ## *Everything is just a Key:Value pair*
