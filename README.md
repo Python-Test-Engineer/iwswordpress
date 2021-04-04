@@ -90,7 +90,7 @@ These are projects that have detailed README files with videos to explain and de
 
 ###  Work tools
 
-- VSCode, Github, NPM, Postman.
+- VSCode, Github, NPM, Postman, Prettier, Tailwind CSS.
 
 ###  Outside interests
 
