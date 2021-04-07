@@ -68,7 +68,7 @@ Udemy is a great learning platform and having sales at least once a month, cours
 
 - WordPress REST API and AJAX Forms/Pages - DEMO https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s (paid)
 - Progressive Web Apps - DEMO https://www.youtube.com/watch?v=k_lHvNL0gkw (paid)
-- WP-HTML: decoupling WordPress to anyHTML platform using Web Components and the WP REST API. This also enables HTML plugins for non-WP Sites - https://www.udemy.com/course/powerful-html-pages-using-wordpress-component-architecture/ (free)
+- WP-HTML: decoupling WordPress to any HTML platform using Web Components and the WP REST API. This also enables HTML plugins for non-WP Sites - https://www.udemy.com/course/powerful-html-pages-using-wordpress-component-architecture/ (free)
 - Stylish Dynamic Web Forms with jQuery validation - https://www.udemy.com/course/ready-to-use-form-validation-templates-with-jquery/ (free)
 
 
