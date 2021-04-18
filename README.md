@@ -29,7 +29,7 @@
 
 A list of talks and workshops I have given:
 
-- WORKSHOP: WP REST API AND YOU -> BEST FRIENDS FOREVER - WordCamp Greece April 2021
+- WORKSHOP: WP REST API and you -> Best Friends Forever workshop (90 mins) - WordCamp Greece April 2021.
 
 - TALK: Web Components as Micro Apps - NDC London, Jan 2021
 
