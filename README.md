@@ -29,6 +29,8 @@
 
 A list of talks and workshops I have given:
 
+- TALK: Leveraging the power or the WordPress REST API - WP Leeds April 2021
+
 - WORKSHOP: WP REST API and you -> Best Friends Forever workshop (90 mins) - WordCamp Greece April 2021. Code: https://github.com/iwswordpress/WordCampGreece
 
 - TALK: Web Components as Micro Apps - NDC London, Jan 2021
