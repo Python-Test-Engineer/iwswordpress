@@ -27,7 +27,9 @@
 
 ## Talks and Workshops
 
-A list of talks and workshops I have given:
+A list of talks and workshops I have given: 
+
+- TALK: Web Components in WP, Gutenberg and as HTML plugins. - WordCamp North East Ohio May 2021.
 
 - TALK: Leveraging the power or the WordPress REST API - WP Leeds April 2021
 
