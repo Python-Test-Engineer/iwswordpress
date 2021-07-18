@@ -29,7 +29,7 @@
 
 A list of talks and workshops I have given: 
 
-- TALK: WP REST API ann Web Components => 100% Internet - WordCamp Santa Clarita, July 2021.
+- TALK: WP REST API and Web Components => 100% Internet - WordCamp Santa Clarita, July 2021.
 
 - TALK: Web Components in WP, Gutenberg and as HTML plugins. - WordCamp North East Ohio May 2021.
 
