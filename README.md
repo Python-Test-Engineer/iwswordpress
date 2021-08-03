@@ -12,6 +12,7 @@
 ### 3. Web Site Performance and Optimisation - training on analysing, diagnosing and improving web site performance, using Chrome Dev Tools.
 ### 4. Async JS and RxJS - handling uncertainity and unpredictability in asynchronous programming...(in development).
 ### 5. Server Side GraphQL - creating APIs based on GraphQL and as well as creating wrappers in front of existing REST APIs.
+### 6. NodeJS Event Loop Deep Dive - how the Event Loop works in Node along with performance testing and optimisation.
 
 ## *Everything is just a Key:Value pair*
 
