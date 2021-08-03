@@ -11,6 +11,7 @@
 ### 2. Web Components as Micro Apps - creating browser compliant components that can be used in any HMTL site as well serve as Micro Apps in enterprise applications.
 ### 3. Web Site Performance and Optimisation - training on analysing, diagnosing and improving web site performance, using Chrome Dev Tools.
 ### 4. Async JS and RxJS - handling uncertainity and unpredictability in asynchronous programming...(in development).
+### 5. Server Side GraphQL - creating APIs based on GraphQL and as well as creating wrappers in front of existing REST APIs.
 
 ## *Everything is just a Key:Value pair*
 
