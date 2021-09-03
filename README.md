@@ -31,7 +31,7 @@
 
 A list of talks and workshops I have given: 
 
-- TALK: Offline and instant websites, aka Progressive Web Apps - AsyncJS, Brighton, September 2021
+- TALK: Offline and instant websites, aka Progressive Web Apps - AsyncJS, Brighton, September 2021.
 
 - LIGHTNING TALK: WordPress as a Micro Service to any framework - WordFest, July 2021.
 
