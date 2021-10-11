@@ -3,6 +3,9 @@
 ## ASYNCJS talk - SLIDES: https://wpjs.co.uk/webcomponents.pdf-->
 
 ## WordPress/JS/React Developer
+
+Working with tradional (and awesome) server side WP, I enjoy wiring together modern client side JS/React/RxJS/Web Components to create the best of both server and client side development.
+
 ## Progressive Web Apps, RxJS, GraphQL and Web Components Trainer/Developer
 
 ### I provide training and production days on a variety of technologies. These can be 1-3 hour sessions, half or full days. These enable  your team to develop new skills and build new components for use in their work the next day. Training is focused on real world use cases.
