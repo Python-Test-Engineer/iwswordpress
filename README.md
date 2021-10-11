@@ -100,8 +100,7 @@ These are projects that have detailed README files with videos to explain and de
 
 - :heavy_check_mark: StencilJS->NPM->React: Using StencilJs to create Web Components, these are deployed as NPM packages and then used in a React Project. Read more and see demo video https://github.com/iwswordpress/stencil-npm-deploy-react
 - :heavy_check_mark: Ionic 5/React/Capacitor: Using the Ionic Web Component framework which can use a React framework, apps are created and with Capacitor, a single JS codebase can be use for PWAs/Web Apps/iOS/Android. Read more and use demo https://github.com/iwswordpress/ionic-react-bio
-- RxJS and JS: Using Reactive programming techniques to use an autocomplete search of locations, resolve to lat, long and then use API to get weather data.
-
+- WordPress, RxJS and JS: Using Reactive programming techniques to create reactive forms, lists and Async JS in and out of WordPress.
 
 ###  Work tools
 
@@ -109,4 +108,4 @@ These are projects that have detailed README files with videos to explain and de
 
 ###  Outside interests
 
-These include partner dancing, yoga and bicycle maintenance.
+These include partner dancing, yoga and neuroscience.
