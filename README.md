@@ -4,7 +4,7 @@
 
 ## WordPress/JS/React Developer
 
-Working with tradional (and awesome) server side WP, I enjoy wiring together modern client side JS/React/RxJS/Web Components to create the best of both server and client side development.
+### Working with tradional (and awesome) server side WP, I enjoy wiring together modern client side JS/React/RxJS/Web Components to create the best of both server and client side development.
 
 ## Progressive Web Apps, RxJS, GraphQL and Web Components Trainer/Developer
 
