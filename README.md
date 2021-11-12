@@ -96,7 +96,7 @@ These are video courses that cover work through official documents to help other
 
 These are projects that have detailed README files with videos to explain and demonstrate the project.
 
-- I ma currently working on a video series to explain WP Plugin Boilerplate using a scaffolded out project that demonstrates the use of MySQL, wp_nonce, REST API, forms and how to redirect pages to plugin templates to make the plugin theme independent. https://www.youtube.com/watch?v=lJ9ktD4JOfs&list=PLsszRSbzjyvn-RQr4dEjrgnTne2HcJKee are some initial videos of what the series will cover and the SCOFFOLDED plugin is completed.
+- WP Plugin Boilerplate:  I am currently working on a video series to explain WP Plugin Boilerplate using a scaffolded out project that demonstrates the use of MySQL, wp_nonce, REST API, forms and how to redirect pages to plugin templates to make the plugin theme independent. https://www.youtube.com/watch?v=lJ9ktD4JOfs&list=PLsszRSbzjyvn-RQr4dEjrgnTne2HcJKee are some initial videos of what the series will cover and the SCOFFOLDED plugin is completed.
 
 - :heavy_check_mark: StencilJS->NPM->React: Using StencilJs to create Web Components, these are deployed as NPM packages and then used in a React Project. Read more and see demo video https://github.com/iwswordpress/stencil-npm-deploy-react
 - :heavy_check_mark: Ionic 5/React/Capacitor: Using the Ionic Web Component framework which can use a React framework, apps are created and with Capacitor, a single JS codebase can be use for PWAs/Web Apps/iOS/Android. Read more and use demo https://github.com/iwswordpress/ionic-react-bio
