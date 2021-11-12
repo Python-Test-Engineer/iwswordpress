@@ -91,8 +91,7 @@ These are video courses that cover work through official documents to help other
 
 - :heavy_check_mark: HIGHLY-FUNCTIONAL-WEBCOMPONENTS: A video course based on the workshop I gave at NDC Oslo June 2020 - https://www.youtube.com/watch?v=QC-JTqQTv2k&list=PLsszRSbzjyvkQwzrJobroRl7z7MfSlePa 
 
-- WP Plugin Boilerplate:  I am currently working on a video series to explain WP Plugin Boilerplate using a scaffolded out project that demonstrates the use of MySQL, wp_nonce, REST API, forms and how to redirect pages to plugin templates to make the plugin theme independent. https://www.youtube.com/watch?v=lJ9ktD4JOfs&list=PLsszRSbzjyvn-RQr4dEjrgnTne2HcJKee are some initial videos of what the series will cover with the completed SCAFFOLDED plugin.
-
+- :heavy_check_mark: WP Plugin Boilerplate:  I havea video series to explain WP Plugin Boilerplate using a scaffolded out project that demonstrates the use of MySQL, wp_nonce, REST API, forms and how to redirect pages to plugin templates to make the plugin theme independent. https://www.youtube.com/watch?v=lJ9ktD4JOfs&list=PLsszRSbzjyvn-RQr4dEjrgnTne2HcJKee
 
 ### Development Projects
 
