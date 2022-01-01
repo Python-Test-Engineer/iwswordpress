@@ -97,9 +97,8 @@ These are video courses that cover work through official documents to help other
 
 These are projects that have detailed README files with videos to explain and demonstrate the project.
 
-- :heavy_check_mark: StencilJS->NPM->React: Using StencilJs to create Web Components, these are deployed as NPM packages and then used in a React Project. Read more and see demo video https://github.com/iwswordpress/stencil-npm-deploy-react
-- :heavy_check_mark: Ionic 5/React/Capacitor: Using the Ionic Web Component framework which can use a React framework, apps are created and with Capacitor, a single JS codebase can be use for PWAs/Web Apps/iOS/Android. Read more and use demo https://github.com/iwswordpress/ionic-react-bio
-- WordPress, RxJS and JS: Using Reactive programming techniques to create reactive forms, lists and Async JS in and out of WordPress.
+- :heavy_check_mark: 3Dwp.co.uk explores using 3D in WordPress.
+- :heavy_check_mark: FormsWith.graphics explores using forms as conversations with users and how we can ensure tight client-side validation and helpful UI to create the best possible experience for the user to communicate two-ways with the site.
 
 ###  Work tools
 
