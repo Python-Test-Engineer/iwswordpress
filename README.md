@@ -98,7 +98,7 @@ These are video courses that cover work through official documents to help other
 These are projects that have detailed README files with videos to explain and demonstrate the project.
 
 - :heavy_check_mark: https://wp-forms.co.uk explores using forms as conversations with users and how we can ensure tight client-side validation and helpful UI to create the best possible experience for the user to communicate two-ways with the site 
-- :heavy_check_mark: https://3Dwp.co.uk explores using 3D in WordPress.
+- https://3Dwp.co.uk explores using 3D in WordPress as well as 2D animations using plain JS and animation libararies such as Anime.js and GSAP. (Just starting...!)
 
 ###  Work tools
 
