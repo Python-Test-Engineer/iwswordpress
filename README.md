@@ -106,4 +106,4 @@ These are projects that have detailed README files with videos to explain and de
 
 ###  Outside interests
 
-These include partner dancing, yoga and neuroscience.
+These include Comedy Writing, Laughter Yoga, occasional partner dancing and DIY.
