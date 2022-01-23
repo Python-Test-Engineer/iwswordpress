@@ -1,6 +1,6 @@
 <!--![TECH](https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)-->
 
-# WordPress/JS/React Developer
+# WordPress and JavaScript Developer.
 
 ### Working with tradional (and awesome) server side WP, I enjoy wiring together modern client side JS/React/RxJS/Web Components to create the best of both server and client side development.
 
