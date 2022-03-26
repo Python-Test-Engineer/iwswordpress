@@ -1,21 +1,23 @@
 <!--![TECH](https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)-->
+# Test Automation Engineer using Cypress and Behaviour Driven Development
 
 # WordPress and JavaScript Developer.
 
-### Working with tradional (and awesome) server side WP, I enjoy wiring together modern client side JS/React/RxJS/Web Components to create the best of both server and client side development.
+I am a Cypress Test Automation Engineer, living in Brighton, UK.
 
-# Progressive Web Apps, RxJS, GraphQL and Web Components Trainer/Developer
+Originally starting with WordPress and moving to the world of JS frameworks, I found that Cypress delivered on its mission: to make testing accessible for developers.
 
-### I provide training and production days on a variety of technologies. These can be 1-3 hour sessions, half or full days. These enable  your team to develop new skills and build new components for use in their work the next day. Training is focused on real world use cases.
+Along with Cypress, I have used my experience with Performance Testing and Accessibility Testing to create a suite of testing skills.
 
-### 1. Progressive Web Apps - enhancing regular websites with increased speed, offline capability and Native App UI.
-### 2. Web Components as Micro Apps - creating browser compliant components that can be used in any HMTL site as well serve as Micro Apps in enterprise applications.
-### 3. Web Site Performance and Optimisation - training on analysing, diagnosing and improving web site performance, using Chrome Dev Tools.
-### 4. Async JS and RxJS - handling uncertainity and unpredictability in asynchronous programming...(in development).
-### 5. Server Side GraphQL - creating APIs based on GraphQL and as well as creating wrappers in front of existing REST APIs.
-### 6. NodeJS Event Loop Deep Dive - how the Event Loop works in Node along with performance testing and optimisation.
+With a degree in Chemistry, (Chemical Analysis), experience and qualifications as an Accountant Technician, Certification and career as an SQL Server DBA and experience as a developer, testing was bound to be appealing to me.
 
-## *Everything is just a Key:Value pair*
+GitHub with its Actions, Projects and Issues will become a one stop shop for developer teams. I believe this is where teams will work and I have worked on developing deep understanding of Git as well as becoming what I call a 'GitHub Administrator', extending from repo permissions to CI/CD. I also work with GitLab CI/CD and Docker.
+
+As a former Microsoft Certified DBA (SQL 2000), I have a strong interest in data integrity as well as using browser storage (IndexedDB) for robust and fast data retrieval.
+
+I originally trained as an Accountant Technician, working freelance for a range of SMEs. This enables me to speak both business and development, bridging the gap between these two worlds, leading to a role as a Business Information Architect for a nationwide recycling company.
+
+As I enjoy researching and learning new technologies, I am also available to do this in my own time prior to some project work, or given some lead time, learn what is necessary for various projects. For me, being a good developer is about being willing to learn, being able to ask for help and incredibly persistent!
 
 ### Former A+ PC Technician, Microsoft Certified Systems Engineer and Microsoft Certified SQL Server DBA
 ### Former Business Information Architect
@@ -89,6 +91,8 @@ Udemy is a great learning platform and having sales at least once a month, cours
 
 These are video courses that cover work through official documents to help other developers, learn in public and show prosepective employers not just what I know but how I learn and how I communicate technical matters to others.
 
+There are also some specific videos explaining solutions to set ups other developers may encounter.
+
 - :heavy_check_mark: HIGHLY-FUNCTIONAL-WEBCOMPONENTS: A video course based on the workshop I gave at NDC Oslo June 2020 - https://www.youtube.com/watch?v=QC-JTqQTv2k&list=PLsszRSbzjyvkQwzrJobroRl7z7MfSlePa 
 
 - :heavy_check_mark: WP Plugin Boilerplate:  I havea video series to explain WP Plugin Boilerplate using a scaffolded out project that demonstrates the use of MySQL, wp_nonce, REST API, forms and how to redirect pages to plugin templates to make the plugin theme independent. https://www.youtube.com/watch?v=lJ9ktD4JOfs&list=PLsszRSbzjyvn-RQr4dEjrgnTne2HcJKee
@@ -98,11 +102,10 @@ These are video courses that cover work through official documents to help other
 These are projects that have detailed README files with videos to explain and demonstrate the project.
 
 - :heavy_check_mark: https://wp-forms.co.uk explores using forms as conversations with users and how we can ensure tight client-side validation and helpful UI to create the best possible experience for the user to communicate two-ways with the site 
-- https://3Dwp.co.uk explores using 3D in WordPress as well as 2D animations using plain JS and animation libararies such as Anime.js and GSAP. (Just starting...!)
 
 ###  Work tools
 
-- VSCode, Github, NPM, Postman, Prettier, Tailwind CSS.
+- VSCode, Github, NPM, Postman, Prettier, Linux
 
 ###  Outside interests
 
