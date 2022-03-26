@@ -1,7 +1,7 @@
 <!--![TECH](https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)-->
 # Test Automation Engineer using Cypress and Behaviour Driven Development
 
-# WordPress and JavaScript Developer.
+# WordPress and JavaScript/React Developer.
 
 I am a Cypress Test Automation Engineer, living in Brighton, UK.
 
