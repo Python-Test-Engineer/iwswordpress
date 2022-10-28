@@ -3,11 +3,11 @@
 
 ## I am currently working as a Computationl and Bioinformatics Special Volounteer for the US Government's National Institutes of Health, developing a Django based ML software tool for creating, running and reporting on machine learning models.
 
-As a former Microsoft Certified DBA (SQL 2000), I have a strong interest in data integrity as well as using browser storage (IndexedDB) for robust and fast data retrieval.
+### As a former Microsoft Certified DBA (SQL 2000), I have a strong interest in data integrity as well as using browser storage (IndexedDB) for robust and fast data retrieval.
 
-I originally trained as an Accountant Technician, working freelance for a range of SMEs. This enables me to speak both business and development, bridging the gap between these two worlds, leading to a role as a Business Information Architect for a nationwide recycling company.
+### I originally trained as an Accountant Technician, working freelance for a range of SMEs. This enables me to speak both business and development, bridging the gap between these two worlds, leading to a role as a Business Information Architect for a nationwide recycling company.
 
-As I enjoy researching and learning new technologies, I am also available to do this in my own time prior to some project work, or given some lead time, learn what is necessary for various projects. For me, being a good developer is about being willing to learn, being able to ask for help and incredibly persistent!
+### As I enjoy researching and learning new technologies, I am also available to do this in my own time prior to some project work, or given some lead time, learn what is necessary for various projects. For me, being a good developer is about being willing to learn, being able to ask for help and incredibly persistent!
 
 ### Former A+ PC Technician, Microsoft Certified Systems Engineer and Microsoft Certified SQL Server DBA
 ### Former Business Information Architect
