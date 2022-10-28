@@ -17,7 +17,7 @@ As I enjoy researching and learning new technologies, I am also available to do 
 
 
 ## Connect with me
-- 👯 https://wpjs.co.uk - My business site for 1-3 hour training workshops for groups and individuals.
+- 👯 https://wpjs.co.uk 
 - 📫 craig@wpjs.co.uk
 
 ## Talks and Workshops
