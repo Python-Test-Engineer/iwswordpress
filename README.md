@@ -89,7 +89,7 @@ There are also some specific videos explaining solutions to set ups other develo
 
 ### Development Projects
 
-I am currently developing a Django/ML software tool for medical researh.
+I am currently developing a Django/ML software tool for medical research.
 
 ###  Work tools
 
