@@ -1,19 +1,7 @@
 <!--![TECH](https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)-->
-# Test Automation Engineer using Cypress
-# Behaviour Driven Development
+# ML/Django/JS/WordPress Developer
 
-# WordPress (Blocks and FSE custom development )
-# JavaScript/React Developer.
-
-I am a Cypress Test Automation Engineer, living in Brighton, UK.
-
-Originally starting with WordPress and moving to the world of JS frameworks, I found that Cypress delivered on its mission: to make testing accessible for developers.
-
-Along with Cypress, I have used my experience with Performance Testing and Accessibility Testing to create a suite of testing skills.
-
-With a degree in Chemistry, (Chemical Analysis), experience and qualifications as an Accountant Technician, Certification and career as an SQL Server DBA and experience as a developer, testing was bound to be appealing to me.
-
-GitHub with its Actions, Projects and Issues will become a one stop shop for developer teams. I believe this is where teams will work and I have worked on developing deep understanding of Git as well as becoming what I call a 'GitHub Administrator', extending from repo permissions to CI/CD. I also work with GitLab CI/CD and Docker.
+I am currently working as a Computationl and Bioinformatics Special Volounteer for the US Government's National Institutes of Health, developing a Django based ML software tool for creating, running and reporting on machine learning models.
 
 As a former Microsoft Certified DBA (SQL 2000), I have a strong interest in data integrity as well as using browser storage (IndexedDB) for robust and fast data retrieval.
 
@@ -101,9 +89,7 @@ There are also some specific videos explaining solutions to set ups other develo
 
 ### Development Projects
 
-These are projects that have detailed README files with videos to explain and demonstrate the project.
-
-- :heavy_check_mark: https://wp-forms.co.uk explores using forms as conversations with users and how we can ensure tight client-side validation and helpful UI to create the best possible experience for the user to communicate two-ways with the site 
+I am currently developing a Django/ML software tool for medical researh.
 
 ###  Work tools
 
