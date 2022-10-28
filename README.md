@@ -1,7 +1,7 @@
 <!--![TECH](https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)-->
 # ML/Django/JS/WordPress Developer
 
-I am currently working as a Computationl and Bioinformatics Special Volounteer for the US Government's National Institutes of Health, developing a Django based ML software tool for creating, running and reporting on machine learning models.
+## I am currently working as a Computationl and Bioinformatics Special Volounteer for the US Government's National Institutes of Health, developing a Django based ML software tool for creating, running and reporting on machine learning models.
 
 As a former Microsoft Certified DBA (SQL 2000), I have a strong interest in data integrity as well as using browser storage (IndexedDB) for robust and fast data retrieval.
 
