@@ -93,8 +93,8 @@ I am currently developing a Django/ML software tool for medical researh.
 
 ###  Work tools
 
-- VSCode, Github, NPM, Postman, Prettier, Linux
+- VSCode, Github, Docker
 
 ###  Outside interests
 
-These include Comedy Writing, Laughter Yoga, occasional partner dancing and DIY.
+These include Baking, Hot Yoga, occasional partner dancing and DIY.
