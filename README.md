@@ -5,11 +5,11 @@
 
 ## An enthusiastic and resourceful 'T' developer - always working on patience and persistence.
 
-### Degree in Chemistry, Oxford University.
-### Former A+ PC Technician, Microsoft Certified Systems Engineer and Microsoft Certified SQL Server DBA.
-### Former Business Information Architect.
-### Qualified Accountant Technician and business owner.
-### Talks and workshops given at WordCamps, MeetUps and NDC.
+- Degree in Chemistry, Oxford University.
+- Former A+ PC Technician, Microsoft Certified Systems Engineer and Microsoft Certified SQL Server DBA.
+- Former Business Information Architect.
+- Qualified Accountant Technician and business owner.
+- Talks and workshops given at WordCamps, MeetUps and NDC.
 [VIEW SPEAKING](#talks-and-workshops)
 
 
