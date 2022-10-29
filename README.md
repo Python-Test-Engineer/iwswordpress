@@ -3,7 +3,7 @@
 
 ## I am currently working as a Computational and Bioinformatics Special Volounteer developing a Django based ML software tool for creating, running and reporting on machine learning models, with an emphasis on organisational procedures.
 
-## An enthusiastic and resourceful 'T' developer - always working on patience and persistence.
+## An enthusiastic and resourceful 'T' developer - always working on patience and persistence!
 
 - Degree in Chemistry, Oxford University.
 - Former A+ PC Technician, Microsoft Certified Systems Engineer and Microsoft Certified SQL Server DBA.
