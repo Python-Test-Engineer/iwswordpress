@@ -1,11 +1,9 @@
 <!--![TECH](https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)-->
-# ML/Django/JS/WordPress Developer
+# ML/Django/Python/JS Developer
 
-## I am currently working as a Computationl and Bioinformatics Special Volounteer developing a Django based ML software tool for creating, running and reporting on machine learning models.
+## I am currently working as a Computationl and Bioinformatics Special Volounteer developing a Django based ML software tool for creating, running and reporting on machine learning models, with an emphasis on organisational procedures.
 
-### As a former Microsoft Certified DBA (SQL 2000), I have a strong interest in data integrity as well as using browser storage (IndexedDB) for robust and fast data retrieval.
-
-### As I enjoy researching and learning new technologies, I am also available to do this in my own time prior to some project work, or given some lead time, learn what is necessary for various projects. For me, being a good developer is about being willing to learn, being able to ask for help and incredibly persistent!
+## An enthusiastic and resourceful 'T' developer - always working on patience and persistence.
 
 ### Degree in Chemistry, Oxford University.
 ### Former A+ PC Technician, Microsoft Certified Systems Engineer and Microsoft Certified SQL Server DBA.
@@ -17,7 +15,7 @@
 
 ## Connect with me
 - 👯 https://wpjs.co.uk 
-- 📫 craig@wpjs.co.uk
+- 📫 mrcraigwest@hotmail.com
 
 ## Talks and Workshops
 
