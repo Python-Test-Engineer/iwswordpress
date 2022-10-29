@@ -9,7 +9,7 @@
 - Former A+ PC Technician, Microsoft Certified Systems Engineer and Microsoft Certified SQL Server DBA.
 - Former Business Information Architect.
 - Qualified Accountant Technician and business owner.
-- Experience with REST APIs, React, Vue, Web Components, Node, Docker, Git.
+- Experience with REST APIs, React, Vue, Web Components, Node, Docker, RxJS, Git.
 - Talks and workshops given at WordCamps, MeetUps and NDC.
 [VIEW SPEAKING](#talks-and-workshops)
 
