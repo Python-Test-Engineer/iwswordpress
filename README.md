@@ -15,7 +15,7 @@
 
 
 ## Connect with me
-- 👯 https://wpjs.co.uk 
+<!--- 👯 https://wpjs.co.uk --->
 - 📫 mrcraigwest@hotmail.com
 
 ## Talks and Workshops
