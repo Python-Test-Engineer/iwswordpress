@@ -9,7 +9,7 @@
 - Former A+ PC Technician, Microsoft Certified Systems Engineer and Microsoft Certified SQL Server DBA.
 - Former Business Information Architect.
 - Qualified Accountant Technician and business owner.
-- Experience with React, Vue, Web Components, Node, Docker, Git.
+- Experience with REST APIs, React, Vue, Web Components, Node, Docker, Git.
 - Talks and workshops given at WordCamps, MeetUps and NDC.
 [VIEW SPEAKING](#talks-and-workshops)
 
@@ -87,7 +87,7 @@ There are also some specific videos explaining solutions to set ups other develo
 
 ### Development Projects
 
-I am currently developing a Django/ML software tool for medical research.
+I am currently developing a Django/ML software tool for medical research as well organisational procedures using REST APIs to connect teams.
 
 ###  Work tools
 
