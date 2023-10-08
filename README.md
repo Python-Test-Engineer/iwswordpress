@@ -65,6 +65,8 @@ A list of talks and workshops I have given:
 
 Udemy is a great learning platform and having sales at least once a month, courses can be purchased for ~ £15/$15 USD.
 
+These have now been retired.
+
 - WordPress REST API and AJAX Forms/Pages - DEMO https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s (paid)
 - Progressive Web Apps - DEMO https://www.youtube.com/watch?v=k_lHvNL0gkw (paid)
 - WP-HTML: decoupling WordPress to any HTML platform using Web Components and the WP REST API. This also enables HTML plugins for non-WP Sites - https://www.udemy.com/course/powerful-html-pages-using-wordpress-component-architecture/ (free)
@@ -85,10 +87,6 @@ There are also some specific videos explaining solutions to set ups other develo
 
 I am currently developing a Django/ML software tool for medical research as well organisational procedures using REST APIs to connect teams.
 
-###  Work tools
-
-- VSCode, Github, Docker
-
 ###  Outside interests
 
-These include Baking, Hot Yoga, occasional partner dancing and DIY.
+These include Baking, gym, occasional partner dancing and DIY.
