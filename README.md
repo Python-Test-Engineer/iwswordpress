@@ -86,7 +86,7 @@ There are also some specific videos explaining solutions to set ups other develo
 
 ### Development Projects
 
-I am currently developing a Django/ML software tool for medical research as well organisational procedures using REST APIs to connect teams.
+I am currently developingmy own  Python Testing Framework
 
 ###  Outside interests
 
