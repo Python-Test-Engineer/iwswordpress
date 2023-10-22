@@ -86,7 +86,7 @@ There are also some specific videos explaining solutions to set ups other develo
 
 ### Development Projects
 
-I am currently developingmy own  Python Testing Framework
+I am currently developingmy own  Python Testing Framework.
 
 ###  Outside interests
 
