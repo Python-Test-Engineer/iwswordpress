@@ -1,5 +1,6 @@
 <!--![TECH](https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)-->
-# Python Engineer working in testing, AI and project organisation.
+# Website Testing and project organisation.
+## PyTest, Playwright (Python and JS), Cypress
 
 - Degree in Chemistry, Oxford University.
 - Former A+ PC Technician, Microsoft Certified Systems Engineer and Microsoft Certified SQL Server DBA.
