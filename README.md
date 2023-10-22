@@ -90,4 +90,4 @@ I am currently developingmy own  Python Testing Framework.
 
 ###  Outside interests
 
-These include Baking, gym, occasional partner dancing and DIY.
+These include Community Kitchens, gym, occasional partner dancing and DIY.
