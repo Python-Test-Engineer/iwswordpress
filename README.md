@@ -86,7 +86,7 @@ There are also some specific videos explaining solutions to set ups other develo
 
 ### Volounteer
 
-I volounteer atCodebar.io in Brighton.
+I volounteer at Codebar.io in Brighton.
 
 ###  Outside interests
 
