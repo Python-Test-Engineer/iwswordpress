@@ -84,9 +84,9 @@ There are also some specific videos explaining solutions to set ups other develo
 
 - :heavy_check_mark: WP Plugin Boilerplate:  I havea video series to explain WP Plugin Boilerplate using a scaffolded out project that demonstrates the use of MySQL, wp_nonce, REST API, forms and how to redirect pages to plugin templates to make the plugin theme independent. https://www.youtube.com/watch?v=lJ9ktD4JOfs&list=PLsszRSbzjyvn-RQr4dEjrgnTne2HcJKee
 
-### Development Projects
+### Volounteer
 
-I am currently developingmy own  Python Testing Framework.
+I volounteer atCodebar.io in Brighton.
 
 ###  Outside interests
 
