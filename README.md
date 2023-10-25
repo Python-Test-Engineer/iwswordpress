@@ -35,7 +35,7 @@ A list of talks and workshops I have given:
 
 - TALK: Unifying frameworks with Web Components - Brighton AsyncJS, Nov 2020.
 
-- WORKSHOP: Progressive Web Apps Workshop (2hrs) - NDC Oslo June 2020 and a paid training workshope with NDC.
+- WORKSHOP: Progressive Web Apps Workshop (2hrs) - NDC Oslo June 2020 and a paid training workshop with NDC.
 
 - WORKSHOP: Web Components Workshop (2hrs) - NDC Oslo June 2020 and a paid training workshope with NDC.
 - 
