@@ -61,8 +61,11 @@ A list of talks and workshops I have given:
 
 - TALK: Decoupled WordPress and WP Components - WordCamp Brighton August 2019.
 
+##  Currently...
 
-##  Published Udemy Courses
+I am developing a Python Testing Framework that has 3 self-contained Test Suites to enable ease of use for developers and testers.
+
+##  Published Udemy Courses [VIEW SPEAKING](#talks-and-workshops) https://github.com/iwswordpress/generic-pytest-playwright-pytest-bdd-framework
 
 Udemy is a great learning platform and having sales at least once a month, courses can be purchased for ~ £15/$15 USD.
 
