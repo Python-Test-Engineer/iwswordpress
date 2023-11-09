@@ -63,10 +63,9 @@ A list of talks and workshops I have given:
 
 ##  Currently...
 
-I am developing a Python Testing Framework that has 3 self-contained Test Suites to enable ease of use for developers and testers.
+I am developing a Python Testing Framework that has 3 self-contained Test Suites to enable ease of use for developers and testers. https://github.com/iwswordpress/generic-pytest-playwright-pytest-bdd-framework
 
-##  Published Udemy Courses [VIEW SPEAKING](#talks-and-workshops) https://github.com/iwswordpress/generic-pytest-playwright-pytest-bdd-framework
-
+##  Published Udemy Courses 
 Udemy is a great learning platform and having sales at least once a month, courses can be purchased for ~ £15/$15 USD.
 
 These have now been retired.
